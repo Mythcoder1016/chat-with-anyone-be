@@ -1,0 +1,1 @@
+channels == 4.0.0 不使用 manage.py runserver 启动 websocket
